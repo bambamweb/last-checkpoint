@@ -28,13 +28,3 @@ The Bootcamp has allowed me to gain a wide array of skills that will help me thr
 
 ## Conclusion
 Overall, I feel much more prepared and excited to embark on this next step in my career. I am ready to face challenges, learn from them, and continue growing in the tech world. Thank you to everyone who supported me during this journey, and I look forward to what lies ahead.
-
-
-
-
-### 4. **Post the Link:**
-   Once your README file is uploaded to GitHub, share the repository link with your instructor as requested.
-
----
-
-Let me know if you need help with any part of this process!
